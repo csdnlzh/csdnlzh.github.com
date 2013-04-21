@@ -1,0 +1,9 @@
+---
+layout: post
+title: my first blog
+---
+
+h1. {{ page.title }}
+
+my test
+
