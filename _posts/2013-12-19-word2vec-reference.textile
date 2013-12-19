@@ -1,0 +1,13 @@
+---
+layout: post
+title: word2vec references
+---
+
+h1. {{ page.title }}
+
+Below are some paper references for word2vec
+
+# Learning word embeddings efficiently with noise-contrastive estimation (NIPS2013)
+
+Email
+"Any questions? please tell me.":mailto:lizh@nlp.nju.edu.cn
