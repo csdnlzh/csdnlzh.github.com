@@ -7,6 +7,7 @@ h1. {{ page.title }}
 
 Below are some paper references for word2vec
 
-# "Learning word embeddings efficiently with noise-contrastive estimation (NIPS2013)":http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/1097.pdf
+# "Learning word embeddings efficiently with noise-contrastive estimation NIPS2013":http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/1097.pdf
 
+# 测试中文
 "Any questions? please tell me.":mailto:lizh@nlp.nju.edu.cn
