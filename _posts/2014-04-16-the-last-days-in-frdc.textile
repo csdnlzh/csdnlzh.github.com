@@ -1,0 +1,10 @@
+---
+layout: post
+title: the last days in FRDC
+---
+
+h1. {{ page.title }}
+
+
+
+"Any questions? please tell me.":mailto:lizh@nlp.nju.edu.cn
