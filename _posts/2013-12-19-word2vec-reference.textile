@@ -5,9 +5,8 @@ title: word2vec references
 
 h1. {{ page.title }}
 
-Below are some paper references for word2vec
+下面是关于word2vec的参考文献
 
-Test git
 
 # "Learning word embeddings efficiently with noise-contrastive estimation NIPS2013":http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips26/1097.pdf
 
