@@ -1,0 +1,9 @@
+---
+layout: post
+title: 最近需要读的书
+---
+
+h1. {{page.title}}
+
+<<book1>>
+<<book2>>
